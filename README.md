@@ -1,7 +1,7 @@
 Used Python and GitHub API to retrieve information of the past 2 months for the given repositories.
 
-1. https://github.com/openai/openai-cookbook \n
-2. https://github.com/elastic/elasticsearch \n
+1. https://github.com/openai/openai-cookbook 
+2. https://github.com/elastic/elasticsearch 
 3. https://github.com/openai/openai-python
 4. https://github.com/milvus-io/pymilvus/
 5. https://github.com/SebastianM/angular-google-maps
